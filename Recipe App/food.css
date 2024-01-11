@@ -4,13 +4,13 @@
 }
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(128, 57, 7);
+    background-color: #511C29;
 
 } 
 nav{
     display: flex;
     justify-content: space-between;
-    background-color: rgb(1, 1, 19);
+    background-color: #A29C9B;
     color: white;
     padding: 22px;
 }
